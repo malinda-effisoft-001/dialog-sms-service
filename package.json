@@ -19,6 +19,6 @@
     "url": "git+https://github.com/malinda-effisoft-001/dialog-sms-service.git"
   },
   "dependencies": {
-    "axios": "^1.13.6"
+    "axios": "^1.17.0"
   }
 }
